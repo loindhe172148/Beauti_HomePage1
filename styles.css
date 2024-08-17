@@ -160,6 +160,7 @@
   background-size: contain;
   height: 100%;
   text-align: center;
+  width: 100%;
 }
 #mid {
   display: flex;
@@ -173,6 +174,7 @@
   background-size: contain;
   height: 100%;
   text-align: center;
+  width: 100%;
 }
 #right {
   display: flex;
@@ -186,6 +188,7 @@
   background-size: contain;
   height: 100%;
   text-align: center;
+  width: 100%;
 }
 #about_us {
   display: flex;
